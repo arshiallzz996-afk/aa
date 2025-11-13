@@ -1,0 +1,6 @@
+python-telegram-bot
+openai>=1.0.0
+PyMuPDF
+python-docx
+httpx
+beautifulsoup4
